@@ -1,4 +1,4 @@
-> **Nom :** BOULOCHE Eléonore
+> **Nom :**GIROMELLA Hugo, BOULOCHE Eléonore, RENAUT Thibaut
 >
 > **Groupe :** A
 >
