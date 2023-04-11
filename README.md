@@ -20,52 +20,6 @@ TP2.md
 **Nom    :** Hautot Sarah
 **Groupe :** A1
 **Année  :** 2023
-**IUT Le Havre - Cours GIT**
-
-
-Afficher plus
-TP3.md
-2 Ko
-@Eléonore t'es vivante ?
-Eléonore — Aujourd’hui à 08:06
-Oui oui, j'arrive
-Thibaut_ — Aujourd’hui à 10:05
-https://drive.google.com/drive/folders/1W6LWAmW3EuVDjdYGx2sWBZceBx8JBFJX?usp=sharing
-gameur002 — Aujourd’hui à 14:19
-Pour faire les compte rendu du TP3 et TP4 : https://docs.google.com/document/d/13IeHuPlfp5Y1NqTEJbW6saEV1dWe0bGYBaJHdnO95LU/edit?usp=sharing
-Google Docs
-compte rendu TP3 et 4
-gameur002 — Aujourd’hui à 15:26
-on pourra les mettres dans les README.md
-Thibaut_ — Aujourd’hui à 18:29
-Vous vous couchez à quel heure
-Eléonore — Aujourd’hui à 18:30
-22
-Thibaut_ — Aujourd’hui à 18:30
-Ok
-Ça vous vas 20h chez moi ?
-On est pas encore revenu de la salle mdr
-Eléonore — Aujourd’hui à 18:33
-Oui, c'est bon pour moi
-gameur002 — Aujourd’hui à 18:34
-ok
-Thibaut_ — Aujourd’hui à 18:36
-Super nickel
-gameur002 — Aujourd’hui à 19:11
-C'est quelle numéro de ton appartement?
-Thibaut_ — Aujourd’hui à 19:46
-310
-gameur002 — Aujourd’hui à 19:46
-oki
-Thibaut_ — Aujourd’hui à 19:47
-Si vous êtes près tt les deux go venir plus tôt comme ça on finis plus tôt
-Thibaut_ — Aujourd’hui à 20:00
-@Eléonore t'es là?
-Eléonore — Aujourd’hui à 20:01
-J'arrive
-Thibaut_ — Aujourd’hui à 20:01
-okay
-Eléonore — Aujourd’hui à 20:06
 > **Nom :** BOULOCHE Eléonore
 >
 > **Groupe :** A
